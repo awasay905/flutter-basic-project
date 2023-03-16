@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "813445511325",
+    "project_id": "anynote-311cb",
+    "storage_bucket": "anynote-311cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813445511325:android:6d8122c326a9484b457c74",
+        "android_client_info": {
+          "package_name": "com.abdulwasayimran.any_note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813445511325-n4kv7425pcluihmichqvsh5oce9htv1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdPi0IhsbXlhWhGuUOHWgopYLq6TCtOmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813445511325-n4kv7425pcluihmichqvsh5oce9htv1k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "813445511325-et2947aguujfguetkrc4iq71fj488n3h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abdulwasayimran.anyNote"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>813445511325-et2947aguujfguetkrc4iq71fj488n3h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.813445511325-et2947aguujfguetkrc4iq71fj488n3h</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBj-CikDGNWNRb076QCshG2NJYFnYA4bTY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>813445511325</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.abdulwasayimran.anyNote</string>
+	<key>PROJECT_ID</key>
+	<string>anynote-311cb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>anynote-311cb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:813445511325:ios:b3709c0a60f37ad5457c74</string>
+</dict>
+</plist>
